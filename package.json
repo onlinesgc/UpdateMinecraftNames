@@ -16,7 +16,7 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "gamerbot-module": "^2.1.0",
-    "minecraft-api-wrapper": "^1.8.0"
+    "minecraft-api-wrapper": "^1.8.2"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
